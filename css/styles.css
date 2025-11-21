@@ -1,0 +1,4 @@
+/* estilos simples para la práctica */
+body { background: #ffffff; }
+.list-group-item.border-danger { background: #fff5f5; border-left: 4px solid #e4e135; }
+.card { border-radius: 8px; }
